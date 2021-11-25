@@ -13,13 +13,6 @@
       "password": "asd",
       "characterId": 2,
       "loggedIn": false
-    },
-    {
-      "id": 3,
-      "username": "a",
-      "password": "a",
-      "characterId": 3,
-      "loggedIn": false
     }
   ],
   "characters": [

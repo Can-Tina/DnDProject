@@ -740,13 +740,13 @@ function createUserCharacter() {
             newCharacter.proficiencies.push("Sleight of Hand")
         }
 
-        /*fetch("http://localhost:3000/characters", {
+        fetch("http://localhost:3000/characters", {
             method: "POST",
             headers: {
                 'Content-Type': 'application/json'
             },
             body: JSON.stringify(newCharacter)
-            })*/
+            })
     }
 }
 
