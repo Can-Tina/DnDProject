@@ -1,0 +1,217 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "username": "CanTina",
+      "password": "password123",
+      "characterId": 1,
+      "loggedIn": true
+    },
+    {
+      "id": 2,
+      "username": "luckystar2011",
+      "password": "asd",
+      "characterId": 2,
+      "loggedIn": false
+    }
+  ],
+  "characters": [
+    {
+      "id": 1,
+      "name": "Clarisse",
+      "race": "Changeling",
+      "class": "Rogue",
+      "level": 1,
+      "hp": 13,
+      "attributes": {
+        "strength": 8,
+        "dexterity": 14,
+        "wisdom": 12,
+        "constitution": 10,
+        "intelligence": 13,
+        "charisma": 19
+      },
+      "proficiencies": [
+        "Acrobatics",
+        "Sleight of Hand",
+        "Stealth",
+        "Insight",
+        "Deception",
+        "Intimidation",
+        "Performance",
+        "Persuasion"
+      ],
+      "weapons": [
+        {
+          "Name": "Dagger",
+          "Damage": "1d4"
+        },
+        {
+          "Name": "Rapier",
+          "Damage": "1d8"
+        },
+        {
+          "Name": "Shortbow",
+          "Damage": "1d6"
+        }
+      ],
+      "spellSlots": [
+        {
+          "first": "0"
+        },
+        {
+          "second": "0"
+        },
+        {
+          "third": "0"
+        },
+        {
+          "fourth": "0"
+        },
+        {
+          "fifth": "0"
+        },
+        {
+          "sixth": "0"
+        },
+        {
+          "seventh": "0"
+        },
+        {
+          "eighth": "0"
+        },
+        {
+          "ninth": "0"
+        },
+        {
+          "tenth": "0"
+        },
+        {
+          "eleventh": "0"
+        },
+        {
+          "twelfth": "0"
+        },
+        {
+          "thirteenth": "0"
+        },
+        {
+          "fourteenth": "0"
+        },
+        {
+          "fifteenth": "0"
+        },
+        {
+          "sixteenth": "0"
+        },
+        {
+          "seventeenth": "0"
+        },
+        {
+          "eighteenth": "0"
+        },
+        {
+          "nineteenth": "0"
+        },
+        {
+          "twentieth": "0"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Princess",
+      "race": "Satyr",
+      "class": "Bard",
+      "level": 1,
+      "hp": 9,
+      "attributes": {
+        "strength": 9,
+        "dexterity": 17,
+        "wisdom": 15,
+        "constitution": 9,
+        "intelligence": 9,
+        "charisma": 19
+      },
+      "proficiencies": [
+        "Acrobatics",
+        "Animal Handling",
+        "Investigation",
+        "Performance",
+        "Persuasion"
+      ],
+      "spellSlots": [
+        {
+          "first": "0"
+        },
+        {
+          "second": "0"
+        },
+        {
+          "third": "0"
+        },
+        {
+          "fourth": "0"
+        },
+        {
+          "fifth": "0"
+        },
+        {
+          "sixth": "0"
+        },
+        {
+          "seventh": "0"
+        },
+        {
+          "eighth": "0"
+        },
+        {
+          "ninth": "0"
+        },
+        {
+          "tenth": "0"
+        },
+        {
+          "eleventh": "0"
+        },
+        {
+          "twelfth": "0"
+        },
+        {
+          "thirteenth": "0"
+        },
+        {
+          "fourteenth": "0"
+        },
+        {
+          "fifteenth": "0"
+        },
+        {
+          "sixteenth": "0"
+        },
+        {
+          "seventeenth": "0"
+        },
+        {
+          "eighteenth": "0"
+        },
+        {
+          "nineteenth": "0"
+        },
+        {
+          "twentieth": "0"
+        }
+      ],
+      "weapons": [
+        {
+          "Name": "Shortbow",
+          "Damage": "1d6"
+        },
+        {
+          "Name": "Shortsword",
+          "Damage": "1d8"
+        }
+      ]
+    }
+  ]
+}
